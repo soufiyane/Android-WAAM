@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projet_WAAM</string>
+    <string name="WAAM">WAAM</string>
+    <string-array name="choixSexe">
+        <item >Homme</item>
+        <item >Femme</item>
+    </string-array>
+    
+    <string name="Page_principale">Page_principale</string>
+    <string name="Activity_message">Activity_message_edit</string>
+    <string name="menu_refresh">Menu_refresh</string>
+    <string name="menu_edit">Menu_edit</string>
+    <string name="menu_pagination">Menu_pagination</string>
+
+
+</resources>
